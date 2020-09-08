@@ -14,3 +14,5 @@ What does HEAD refer to in the context of git?
 HEAD refers to the most recent commit made on the current branch. It is a pointer to the most "up to date" repository
 
 Hello World
+
+Making Changes to the File
