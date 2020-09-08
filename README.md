@@ -18,3 +18,4 @@ Hello World
 Making Changes to the File
 
 Current time is 1209 PST
+Current date is 08SEP2020
